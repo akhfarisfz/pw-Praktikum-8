@@ -1,0 +1,88 @@
+{
+    "menu": [
+        {
+            "kategori": "makanan",
+            "nama": "Nasi goreng",
+            "deskripsi": "Makanan malam khas Indonesia dengan bahan pilihan",
+            "harga": "12000",
+            "gambar": "gambar/makanan/nasigoreng.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Nasi Rawon",
+            "deskripsi": "Makanan khas Jawa Timur dengan kekhasan kuah hitam menggoda",
+            "harga": "20000",
+            "gambar": "https://1.bp.blogspot.com/-t5xptVeok_E/XedrrPWH0PI/AAAAAAAAAyw/BuHFIIwOrMItxfiPed2E5fPgAGoeDiVDACLcBGAsYHQ/s1600/rawon.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Kwetiau goreng",
+            "deskripsi": "Kwetiau goreng dilengkapi toping jamur dan ayam goreng",
+            "harga": "24000",
+            "gambar": "gambar/makanan/Kwetiaugoreng.jpeg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Nasi Padang Spesial",
+            "deskripsi": "Makanan khas Padang dengan toping rendang spesial",
+            "harga": "54000",
+            "gambar": "gambar/makanan/padangrendang.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Nasi Pecel",
+            "deskripsi": "Makanan khas Jawa Timur dengan sayur dan kuah kacang",
+            "harga": "10000",
+            "gambar": "gambar/makanan/pecel.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Pecel Lele",
+            "deskripsi": "Ikan Lele kering dengan lalapan dan sambal cabai",
+            "harga": "40000",
+            "gambar": "gambar/makanan/pecellele.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Es teh",
+            "deskripsi": "minuman teh dengan es batu menyegarkan",
+            "harga": "4000",
+            "gambar": "gambar/minuman/esteh.jpeg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Es Jeruk",
+            "deskripsi": "minuman jeruk manis",
+            "harga": "4000",
+            "gambar": "gambar/minuman/esjeruk.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Cola Float",
+            "deskripsi": "Coca cola dengan topping es krim vanila",
+            "harga": "10000",
+            "gambar": "gambar/minuman/colafloat.jpeg"
+        },
+        {
+            "kategori": "dessert",
+            "nama": "Es Teler",
+            "deskripsi": "Es teler dengan topping es krim dan gula jawa",
+            "harga": "28000",
+            "gambar": "gambar/dessert/estelereskrim.jpg"
+        },
+        {
+            "kategori": "dessert",
+            "nama": "Mousse",
+            "deskripsi": "Cake lembut dengan isian coklat",
+            "harga": "20000",
+            "gambar": "gambar/dessert/mousse.jpg"
+        },
+        {
+            "kategori": "dessert",
+            "nama": "Eskrim Mochi",
+            "deskripsi": "Kue Mochhi dengan topping ice cream dan wafle",
+            "harga": "30000",
+            "gambar": "gambar/dessert/mochiice.jpg"
+        }
+    ]
+}
